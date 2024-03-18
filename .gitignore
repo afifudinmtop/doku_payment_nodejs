@@ -1,0 +1,59 @@
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# Optional REPL history
+.node_repl_history
+
+# Output of 'npm pack'
+*.tgz
+
+# Yarn Integrity file
+.yarn-integrity
+
+# dotenv environment variables file
+.env
+.env.test
+
+# Next.js build output
+.next
+out/
+build/
+
+# Nuxt.js build output
+.nuxt
+dist/
+
+# Gatsby files
+.cache/
+public/
+
+# VuePress build output
+.vuepress/dist
+
+# Serverless directories
+.serverless/
+
+# IDE and editor folders
+.vscode/
+*.swp
+*.swo
+.idea/
+*.sublime-workspace
+*.sublime-project
+*.log
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
